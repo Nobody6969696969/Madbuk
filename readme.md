@@ -1,6 +1,6 @@
 # Madbuk Loader
 
-Welcome to **Madbuk**! This is the official loader and key system information.
+Welcome to **Madbuk**! This is the official loader
 
 ---
 
@@ -25,11 +25,4 @@ Stay updated and get support by joining the official Discord:
 
 🔗 [Join Discord](https://discord.gg/8EGz8MgCyT)
 
----
 
-## ⚡ Notes
-- Make sure you always grab the latest loader from this repository.  
-- Keys may reset, so check back if your current key expires.  
-- Do not share your key with others.
-
----
